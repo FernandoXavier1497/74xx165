@@ -1,0 +1,11 @@
+{
+  "name": "74xx165",
+  "version": "1.0.0",
+  "description": "Biblioteca para registradores de deslocamento 74HC165 / 74LS165 (cascata, bordas, logica invertida).",
+  "keywords": "74hc165, 74ls165, shift register, entradas, arduino",
+  "repository": { "type": "git", "url": "https://github.com/FernandoXavier1497/74xx165.git" },
+  "authors": [{ "name": "Fernando Xavier", "url": "https://github.com/FernandoXavier1497" }],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
